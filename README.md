@@ -1,4 +1,5 @@
 # Olá! Meu nome é Hilário Filho :)
+#### Sou um estudante dedicado, entusiasta da computação, concentrado principalmente na exploração de dados e no campo do aprendizado de máquina. 🎓
 ## Sobre mim ...
 <ul>
   <li>
@@ -22,11 +23,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="60" height="60"/>    
 </div>
 <div>
-<a href="https://github.com/HilarioMarques">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilarioMarques&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HilarioMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/HilarioMarques">
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilarioMarques&layout=compact&langs_count=7&theme=dracula"/>
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HilarioMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
 </div>
-
 
           
 
