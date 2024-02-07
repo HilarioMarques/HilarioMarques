@@ -14,7 +14,7 @@
 </ul>
 <h3>Onde me encontrar 🌐 . . .</h3>
 <div>
-    &nbsp<a href="www.linkedin.com/in/hilario-datascience" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width=140></a>&nbsp
+    &nbsp<a href="https://www.linkedin.com/in/hilario-datascience/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width=140></a>&nbsp
     &nbsp<a href="https://llucaslleall.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width=140></a>&nbsp
 </div>
 <h3>Atualmente mais focado em 💡 . . .</h3>
