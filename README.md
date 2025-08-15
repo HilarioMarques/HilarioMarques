@@ -17,12 +17,6 @@
     &nbsp<a href="https://www.linkedin.com/in/hilario-datascience/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width=140></a>&nbsp
     &nbsp<a href="https://medium.com/@hilariospol"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width=140></a>&nbsp
 </div>
-<h3>Atualmente mais focado em 💡 . . .</h3>
-<div>
-    &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>&nbsp 
-    &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp     
-    &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50" height="50"/>&nbsp    
-</div>
 <h3>Alguns conteúdos que criei 📰 . . .</h3>
 <ul>  
   <li>
