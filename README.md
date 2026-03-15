@@ -1,5 +1,5 @@
 # Olá! Meu nome é Hilário Filho :)
-#### Sou um estudante dedicado, entusiasta da computação, concentrado principalmente na exploração de dados e no campo do aprendizado de máquina. 🎓
+#### Sou um cientista da computação, concentrado principalmente na exploração de dados e no campo do aprendizado de máquina. 🎓
 ## Sobre mim ...
 <ul>
   <li>
