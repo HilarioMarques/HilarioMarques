@@ -9,19 +9,18 @@
     🔍 Apesar do foco principal em <strong>ciência de dados</strong>, tenho um interesse significativo nos diversos campos da <strong>computação</strong>
   </li>
   <li>
-    📚 <strong>Livros preferidos:</strong> <em>Paraíso Perdido</em> - John Milton; <em>A Arte da Prudência</em> - Baltasar Gracián;
+    📚 <strong>Livros preferidos:</strong> <em>Guerra e paz</em> - Liev Tolstoi; <em>A Arte da Prudência</em> - Baltasar Gracián;
   </li>
 </ul>
 <h3>Onde me encontrar 🌐 . . .</h3>
 <div>
     &nbsp<a href="https://www.linkedin.com/in/hilario-datascience/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width=140></a>&nbsp
-    &nbsp<a href="https://medium.com/@hilariospol"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width=140></a>&nbsp
 </div>
 <h3>Alguns conteúdos que criei 📰 . . .</h3>
 <ul>  
   <li>
-    <a href="https://www.linkedin.com/pulse/an%25C3%25A1lise-explorat%25C3%25B3ria-dos-dados-globais-de-informa%25C3%25A7%25C3%25B5es-hil%25C3%25A1rio--tuyvf/?trackingId=GyN5kOWpSH2Jw4OMkob2TQ%3D%3D">
-    Projeto de Análise Exploratória de dados com <strong>Python</strong>: Dados Globais sobre países</a>
+    <a href="https://www.linkedin.com/pulse/ci%C3%AAncia-de-dados-o-que-%C3%A9-hil%C3%A1rio-oliveira-marques-filho-f0wzf/">
+    Artigo sobre a área de ciência de dados <strong>Python</strong>: Ciência de dados: O que é?</a>
   </li>
 </ul>
 <div style = float: right>
