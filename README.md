@@ -20,14 +20,9 @@
 <ul>  
   <li>
     <a href="https://www.linkedin.com/pulse/ci%C3%AAncia-de-dados-o-que-%C3%A9-hil%C3%A1rio-oliveira-marques-filho-f0wzf/">
-    Artigo sobre a área de ciência de dados <strong>Python</strong>: Ciência de dados: O que é?</a>
+    Artigo sobre a área de ciência de dados <strong></strong>: Ciência de dados: O que é?</a>
   </li>
 </ul>
-<div style = float: right>
-    <a href="https://github.com/HilarioMarques">
-       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HilarioMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
-</div>
 
           
 
